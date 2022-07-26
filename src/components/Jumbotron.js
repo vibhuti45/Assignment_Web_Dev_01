@@ -3,9 +3,9 @@ import React from 'react'
 export default function Jumbotron() {
   return (
     <div className='container'>
-    <div className="jumbotron bg-black p-5 rounded mt-5">
-  <h1 className="display-4">Hello, world!</h1>
-  <p className="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+    <div className="jumbotron bg-black p-5 rounded mt-5 text-white">
+  <h1 className="display-4">Awesome by Alok </h1>
+  <p className="lead">Quite beautiful experience at this PG. Would definitely recommend this PG to everyone at affordable prices.</p>
   <hr className="my-4"/>
   <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
   <p className="lead">

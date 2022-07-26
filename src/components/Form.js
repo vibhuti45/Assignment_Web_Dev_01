@@ -10,8 +10,8 @@ export default function Form() {
     <small id="emailHelp" className="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <div className="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" className="form-control" id="exampleInputPassword1" placeholder="Password"/>
+    <label for="exampleInputPassword1">Room no.</label>
+    <input type="txt" className="form-control" id="exampleInputPassword1" placeholder="Room no."/>
   </div>
   <div className="form-check">
     <input type="checkbox" className="form-check-input" id="exampleCheck1"/>
